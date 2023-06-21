@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-App-IPInfo/static/css/main.7a1b59f1.css",
+    "main.js": "/React-App-IPInfo/static/js/main.d9d5e6fa.js",
+    "static/js/787.822f6123.chunk.js": "/React-App-IPInfo/static/js/787.822f6123.chunk.js",
+    "index.html": "/React-App-IPInfo/index.html",
+    "main.7a1b59f1.css.map": "/React-App-IPInfo/static/css/main.7a1b59f1.css.map",
+    "main.d9d5e6fa.js.map": "/React-App-IPInfo/static/js/main.d9d5e6fa.js.map",
+    "787.822f6123.chunk.js.map": "/React-App-IPInfo/static/js/787.822f6123.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a1b59f1.css",
+    "static/js/main.d9d5e6fa.js"
+  ]
+}
